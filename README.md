@@ -38,7 +38,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/(rest von dem Link einfügen)
+git clone git@github.com:YssraChahine/Todo-APP.git
 
 Navigate into the project:
 cd todo-app
