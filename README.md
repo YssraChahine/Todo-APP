@@ -5,11 +5,7 @@ This project demonstrate core frontend development skills including state manage
 
 # Live Demo
 
-[View Live App] (Link einfügen)
-
-# Screenshot
-
-![App Screenshot](./screenshot.png)(screenshot einfügen)
+[View Live App] (https://todo-app-seven-gamma-14.vercel.app/) 
 
 ## Features
 
